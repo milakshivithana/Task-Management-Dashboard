@@ -1,6 +1,10 @@
 # TaskFlow — Premium Task Management Dashboard
 
-![TaskFlow Dashboard Screenshot](public/images/dashboard.png)
+### 📋 Main Dashboard (Kanban & List Views)
+![TaskFlow Dashboard Board](public/images/dashboard_.png)
+
+### ✍️ Create & Edit Tasks Modal
+![TaskFlow Create Task Modal](public/images/dashboard.png)
 
 TaskFlow is a premium, interactive single-page application (SPA) built for managing daily tasks. Designed with modern UX/UI principles, it features dynamic views, real-time filters, statistics tracking, and asynchronous database updates for a smooth, app-like user experience.
 
